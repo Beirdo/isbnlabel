@@ -1,0 +1,4 @@
+isbnlib
+python-barcode[images]
+matplotlib
+numpy
